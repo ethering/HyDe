@@ -30,7 +30,7 @@ modules that HyDe requires (Cython, Numpy, Matplotlib, Seaborn, and Multiprocess
 .. code:: bash
 
   # Install packages with pip
-  pip install cython numpy matplotlib seaborn multiprocess
+  pip install numpy cython matplotlib seaborn multiprocess
 
 Installing HyDe
 ---------------
